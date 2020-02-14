@@ -36419,7 +36419,7 @@ F.lX.prototype={
 ay:function(){return new F.xK(C.n)},
 JU:function(a){return this.c.$1(a)}}
 F.xK.prototype={
-M:function(a){var t=null,s=u.aF,r=u.N,q=P.b5([C.nU,"Home",C.nS,"About",C.nT,"Skills",C.nR,"Projects",C.nQ,"Contact"],s,r),p=P.b5([C.vK,"https://github.com/TheChileanKink",C.vL,"https://linkedin.com/in/diego-cattarinich-clavel-300486160"],s,r)
+M:function(a){var t=null,s=u.aF,r=u.N,q=P.b5([C.nU,"Home",C.nS,"About",C.nT,"Skills",C.nR,"Projects",C.nQ,"Contact"],s,r),p=P.b5([C.vK,"github.com/TheChileanKink",C.vL,"linkedin.com/in/diego-cattarinich-clavel-300486160"],s,r)
 return new M.o6(H.b([M.c5(t,new T.j7(C.b7,t,t,L.f7("D",A.df(t,t,t,t,t,t,t,t,t,t,t,40,t,C.bd,t,t,!0,t,t,t,H.b([new P.ie(C.bK,new P.q(2,2),0)],u.j8),t,t)),t),C.o,t,t,60,t,t,60),new M.k5(q.gw3(q).cN(0,new F.KA(this),u.bo).be(0),t),new M.k5(p.gw3(p).cN(0,new F.KB(),u.E5).be(0),t)],u.E),t)}}
 F.KA.prototype={
 $1:function(a){var t=a.a,s=this.a,r=s.a.d,q=a.b
@@ -36433,7 +36433,7 @@ F.KB.prototype={
 $1:function(a){var t=null
 return D.OF(t,B.Ri(L.Rh(a.a,C.hS,a.b),new F.Ky(a)),C.a9,!1,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t)}}
 F.Ky.prototype={
-$0:function(){return T.O4("https:"+H.a(this.a.b))},
+$0:function(){return T.O4("https://"+H.a(this.a.b))},
 $C:"$0",
 $R:0,
 $S:153}
