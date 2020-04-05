@@ -39767,12 +39767,12 @@ n=H.b([],s)
 if(F.a0(a,!1).a.a>960)n.push(new R.bk("Phone:",C.ah,l.ib(20),m))
 n.push(N.ec(D.fp(m,new R.bk("+569 58387057",C.ah,l.ib(20),m),C.Q,!1,m,m,m,m,m,m,m,m,m,m,new Z.OL(),m,m,m,m,m)))
 o.push(T.cu(n,C.H,C.be,C.A))
-r.push(T.dy(E.U6(B.ou(o,q,C.m,!1))))
-q=new P.ao(10,10)
-q=S.c2(m,new K.aA(q,q,q,q),m,P.bI(45,52,61,1),m,m,C.v)
-o=$.YR
-r.push(new T.ff(C.W,m,m,M.aq(m,T.cu(o.gm9(o).d_(0,new Z.OM(),u.cl).aS(0),C.H,C.dV,C.al),m,m,q,m,m,m,m),m))
-return M.aq(m,T.c3(H.b([T.dy(T.c3(r,C.H,C.F,C.A))],s),C.V,C.F,C.A),t,m,m,m,m,m,m)},
+q=T.dy(E.U6(B.ou(o,q,C.m,!1)))
+o=new P.ao(10,10)
+o=S.c2(m,new K.aA(o,o,o,o),m,P.bI(45,52,61,1),m,m,C.v)
+n=$.YR
+r.push(T.dy(T.c3(H.b([q,new T.ff(C.W,m,m,M.aq(m,T.cu(n.gm9(n).d_(0,new Z.OM(),u.cl).aS(0),C.H,C.dV,C.al),m,m,o,m,m,m,m),m)],s),C.H,C.F,C.A)))
+return M.aq(m,T.c3(r,C.V,C.F,C.A),t,m,m,m,m,m,m)},
 fL:function(a){var t=this,s=null,r=u.p,q=H.b([],r),p=F.a0(t.c,!1).a.a>960?60:40,o=F.a0(t.c,!1).a.a>960?60:40,n=F.a0(t.c,!1).a.a>960?20:10
 n=new P.ao(n,n)
 n=S.c2(s,new K.aA(n,n,n,n),s,a.d,s,s,C.v)
